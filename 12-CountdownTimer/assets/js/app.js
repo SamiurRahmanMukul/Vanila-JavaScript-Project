@@ -28,8 +28,14 @@ const deadline = document.querySelector(".deadline");
 const items = document.querySelectorAll(".deadline-format h4");
 // console.log(items);
 
-let futureDate = new Date(2021, 2, 15, 11, 59, 0);
-// console.log(futureDate);
+// TODO: temporary data generate
+let tempDate = new Date();
+let tempYear = tempDate.getFullYear();
+let tempMonth = tempDate.getMonth();
+let tempDay = tempDate.getDate();
+
+// let futureDate = new Date(2021, 2, 15, 11, 59, 0); // hardcoded
+let futureDate = new Date(tempYear, tempMonth, tempDay + 10, 11, 59, 00);
 
 const year = futureDate.getFullYear();
 const hours = futureDate.getHours();
