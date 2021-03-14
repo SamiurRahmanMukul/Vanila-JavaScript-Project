@@ -183,7 +183,7 @@ main {
 
 /*
 =============== 
-Lorem Ipsum
+  table text
 ===============
 */
 h3 {
@@ -218,4 +218,5 @@ button {
 .result {
   margin-top: 2rem;
   margin-bottom: 2rem;
+  font-weight: bold;
 }

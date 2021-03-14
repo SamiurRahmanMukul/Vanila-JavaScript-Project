@@ -1,29 +1,21 @@
 // select elements
-const tableFrom = document.querySelector(".table-from");
-const amount = document.getElementById("amount");
-const result = document.querySelector(".table-text");
+const tableForm = document.querySelector(".table-from");
+const getValue = document.getElementById("amount");
 
-// define variable
-var e_text = "Sorry! if (number <= 0) null value return.";
-
-// event listener add
-tableFrom.addEventListener("submit", function (e) {
+tableForm.addEventListener("submit", function (e) {
   e.preventDefault();
+  const num = parseInt(getValue.value);
 
-  // get value
-  const num = parseInt(amount.value);
-
-  if (num <= 0) {
-    result.innerHTML = `<p class="result">${e_text}</p>`;
-  } else if (isNaN(num)) {
-    alert("Hello, Please input number first then click enter.");
+  if (isNaN(num)) {
+    alert("Please enter input first. Thanks");
+  } else if (num < 1) {
+    alert("Less then or equals 0 numbers can't calculate.");
   } else {
-    let temp;
     for (let i = 1; i <= 10; i++) {
-      console.log(num + " x " + i + " = " + num * i);
-      temp = num + " x " + i + " = " + num * i + "\n";
+      // console.log(num + " x " + i + " = " + num * i);
 
-      result.innerHTML = `<p class="result">${temp}</p>`;
+      document.querySelector(".append-result").innerHTML +=
+        "<li>" + num + " x " + i + " = " + num * i + "<li/>";
     }
   }
 });
