@@ -23,7 +23,6 @@
 - 19-Pagination-Project - [Click To Live Preview][pagination]
 
 <br />
-<br />
 
                     </> HAPPY Coding 🤣 </>
 
@@ -45,6 +44,6 @@
 [mttable]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/14-MultiplicationTable/
 [grocerybud]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/15-GroceryBud/
 [imageslider]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/16-ImageSlider/
-[jssliderproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/17-JS_sliderProject/
-[stripsubmenu]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/18-Strip-Submenus/
-[pagination]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/19-Paggination/
+[jssliderproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/17-JS-SliderProject/
+[stripsubmenu]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/18-Stripe-Submenus/
+[pagination]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/19-Pagination/
