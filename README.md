@@ -2,12 +2,12 @@
 
 ### Live Preview Project:
 
-    1-ColorFlipper - [LivePreview][colorFilper]
+    1-ColorFlipper - [LivePreview][colorflipper]
 
 <br />
 <br />
 
-        </> HAPPY Coding 🤣 </>
+                    </> HAPPY Coding 🤣 </>
 
 <!-- project link -->
 
