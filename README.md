@@ -1,49 +1,49 @@
-# Vanilla-JavaScript-Project-Collection
+<!-- social media connecting shield -->
 
-### 🔰 Live Preview Projects:
+[![Facebook][facebook-shield]][facebook-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Twitter][twitter-shield]][twitter-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Github][github-shield]][github-url]
 
-- 1-ColorFlipper - [Click To Live Preview][colorflipper]
-- 2-CounterProject - [Click To Live Preview][counterproject]
-- 3-ReviewsProject - [Click To Live Preview][reviewsproject]
-- 4-NavbarToggle - [Click To Live Preview][navbartoggle]
-- 5-SidebarMenu - [Click To Live Preview][sidebarmenu]
-- 6-ModalProject - [Click To Live Preview][modalproject]
-- 7-FAQ-Question - [Click To Live Preview][faqquestion]
-- 8-MenuOption - [Click To Live Preview][menuoption]
-- 9-MenuOption - [Click To Live Preview][menuoption]
-- 10-ScrollProject - [Click To Live Preview][scrollproject]
-- 11-TabsLayout - [Click To Live Preview][tabslayout]
-- 12-CountdownTimer - [Click To Live Preview][countdowntimer]
-- 13-ParagraphGenerator - [Click To Live Preview][paragraphgenerator]
-- 14-MultiplicationTable - [Click To Live Preview][mttable]
-- 15-GroceryBud - [Click To Live Preview][grocerybud]
-- 16-ImageSlider - [Click To Live Preview][imageslider]
-- 17-Fullpage-ImageSlider - [Click To Live Preview][jssliderproject]
-- 18-StripSubmenu - [Click To Live Preview][stripsubmenu]
-- 19-Pagination-Project - [Click To Live Preview][pagination]
+# Vanilla-JavaScript-Mini-Projects
 
-<br />
+Hello 👋, Here in this repository i will be build some beginner level `Vanilla JavaScript Mini Projects` using vanilla javascript. So enjoy here project and let's connected with me and explore something new. Thanks
 
-                    </> HAPPY Coding 🤣 </>
+|  #  | Projects                                                                                                                  | Live Preview                                                                                          |
+| :-: | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 01  | [1-ColorFlipper](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/1-ColorFlipper)                 | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/1-ColorFlipper)         |
+| 02  | [2-CounterProject](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/2-CounterProject)             | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/2-CounterProject)       |
+| 03  | [3-ReviewsProject](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/3-ReviewsProject)             | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/3-ReviewsProject)       |
+| 04  | [4-NavbarToggle](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/4-NavbarToggle)                 | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/4-NavbarToggle)         |
+| 05  | [5-SidebarMenu](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/5-SidebarMenu)                   | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/5-SidebarMenu)          |
+| 06  | [6-ModalProject](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/6-ModalProject)                 | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/6-ModalProject)         |
+| 07  | [7-FAQ-Question](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/7-FAQ-Question)                 | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/7-FAQ-Question)         |
+| 08  | [8-MenuOptions](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/8-MenuOptions)                   | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/8-MenuOptions)          |
+| 09  | [9-VideoProject](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/9-VideoProject)                 | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/9-VideoProject)         |
+| 10  | [10-ScrollProject](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/10-ScrollProject)             | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/10-ScrollProject)       |
+| 11  | [11-TabsLayout](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/11-TabsLayout)                   | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/11-TabsLayout)          |
+| 12  | [12-CountdownTimer](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/12-CountdownTimer)           | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/12-CountdownTimer)      |
+| 13  | [13-ParagraphGenerator](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/13-ParagraphGenerator)   | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/13-ParagraphGenerator)  |
+| 14  | [14-MultiplicationTable](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/14-MultiplicationTable) | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/14-MultiplicationTable) |
+| 15  | [15-GroceryBud](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/15-GroceryBud)                   | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/15-GroceryBud)          |
+| 16  | [16-ImageSlider](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/16-ImageSlider)                 | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/16-ImageSlider)         |
+| 17  | [17-JS-SliderProject](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/17-JS-SliderProject)       | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/17-JS-SliderProject)    |
+| 18  | [18-Stripe-SubMenus](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/18-Stripe-Submenus)         | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/18-Stripe-Submenus)     |
+| 19  | [19-Pagination](https://github.com/SamiurRahmanMukul/Vanila-JavaScript-Project/tree/main/19-Pagination)                   | [👉 Click Here](https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/19-Pagination)          |
 
-<!-- project link -->
+<!-- my social media links -->
 
-[colorflipper]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/1-ColorFlipper/
-[counterproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/2-CounterProject/
-[reviewsproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/3-ReviewsProject/
-[navbartoggle]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/4-NavbarToggle/
-[sidebarmenu]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/5-SidebarMenu/
-[modalproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/6-ModalProject/
-[faqquestion]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/7-FAQ-Question/
-[menuoption]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/8-MenuOptions/
-[videoroject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/9-VideoProject/
-[scrollproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/10-ScrollProject/
-[tabslayout]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/11-TabsLayout/
-[countdowntimer]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/12-CountdownTimer/
-[paragraphgenerator]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/13-ParagraphGenerator/
-[mttable]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/14-MultiplicationTable/
-[grocerybud]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/15-GroceryBud/
-[imageslider]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/16-ImageSlider/
-[jssliderproject]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/17-JS-SliderProject/
-[stripsubmenu]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/18-Stripe-Submenus/
-[pagination]: https://samiurrahmanmukul.github.io/Vanila-JavaScript-Project/19-Pagination/
+[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
+[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
+[twitter-url]: https://www.twitter.com/SamiurRahMukul
+[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
+[github-url]: https://www.github.com/SamiurRahmanMukul
+
+<!-- shield icon links -->
+
+[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
+[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=flat-square&logo=twitter&color=555&logoColor=white
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/-Github-black.svg?style=flat-square&logo=github&color=555&logoColor=white
